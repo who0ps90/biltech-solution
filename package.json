@@ -1,0 +1,22 @@
+{
+  "name": "biltech-solution",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && vite build --ssr src/entry-server.jsx --outDir .ssr && node scripts/prerender.mjs"
+  },
+  "dependencies": {
+    "framer-motion": "14.0.0",
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.2.1",
+    "@vitejs/plugin-react": "6.0.2",
+    "postcss": "8.5.28",
+    "tailwindcss": "4.2.1",
+    "vite": "8.3.2"
+  }
+}

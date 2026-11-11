@@ -1,0 +1,50 @@
+[
+  {
+    "Path": "/",
+    "Status": 200
+  },
+  {
+    "Path": "/about",
+    "Status": 200
+  },
+  {
+    "Path": "/assets/biltech-brand-board.png",
+    "Status": 200
+  },
+  {
+    "Path": "/assets/index-C2gPdgyy.css",
+    "Status": 200
+  },
+  {
+    "Path": "/assets/index-CnD7a5Xc.js",
+    "Status": 200
+  },
+  {
+    "Path": "/contact",
+    "Status": 200
+  },
+  {
+    "Path": "/faq",
+    "Status": 200
+  },
+  {
+    "Path": "/pricing",
+    "Status": 200
+  },
+  {
+    "Path": "/services",
+    "Status": 200
+  },
+  {
+    "Path": "/services/google-business-profile",
+    "Status": 200
+  },
+  {
+    "Path": "/services/website-design",
+    "Status": 200
+  },
+  {
+    "Path": "/services/whatsapp-automation",
+    "Status": 200
+  }
+]

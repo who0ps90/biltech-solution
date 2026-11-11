@@ -1,0 +1,317 @@
+{
+  "desktop": [
+    {
+      "route": "/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Digital Growth for Penang SMEs | Biltech Solution"
+    },
+    {
+      "route": "/about/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "About Biltech | Biltech Solution"
+    },
+    {
+      "route": "/services/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Digital Marketing Services | Biltech Solution"
+    },
+    {
+      "route": "/services/website-design/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Website & Landing Pages | Biltech Solution"
+    },
+    {
+      "route": "/services/google-business-profile/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Google Business + Reviews | Biltech Solution"
+    },
+    {
+      "route": "/services/whatsapp-automation/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "WhatsApp Automation | Biltech Solution"
+    },
+    {
+      "route": "/pricing/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Packages & Pricing | Biltech Solution"
+    },
+    {
+      "route": "/faq/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": false,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Frequently Asked Questions | Biltech Solution"
+    },
+    {
+      "route": "/contact/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Contact Biltech | Biltech Solution"
+    }
+  ],
+  "mobile": [
+    {
+      "route": "/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Digital Growth for Penang SMEs | Biltech Solution"
+    },
+    {
+      "route": "/about/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": false,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "About Biltech | Biltech Solution"
+    },
+    {
+      "route": "/services/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Digital Marketing Services | Biltech Solution"
+    },
+    {
+      "route": "/services/website-design/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": false,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Website & Landing Pages | Biltech Solution"
+    },
+    {
+      "route": "/services/google-business-profile/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Google Business + Reviews | Biltech Solution"
+    },
+    {
+      "route": "/services/whatsapp-automation/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "WhatsApp Automation | Biltech Solution"
+    },
+    {
+      "route": "/pricing/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": false,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Packages & Pricing | Biltech Solution"
+    },
+    {
+      "route": "/faq/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": false,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Frequently Asked Questions | Biltech Solution"
+    },
+    {
+      "route": "/contact/",
+      "contrastFailures": [],
+      "h1": 1,
+      "images": [
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        },
+        {
+          "loaded": true,
+          "src": "/assets/biltech-logo.webp"
+        }
+      ],
+      "overflow": 0,
+      "title": "Contact Biltech | Biltech Solution"
+    }
+  ],
+  "notes": [
+    "Leaf text contrast check excludes illustrative image groups and transparent gradient text; gradient text reviewed separately.",
+    "An unloaded below-fold logo is expected with native lazy loading.",
+    "Reduced-motion logic reviewed in source; browser media emulation was unavailable."
+  ]
+}
