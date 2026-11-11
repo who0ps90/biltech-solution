@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://biltech-solution-v1.chris-keith5463.chatgpt.site/sitemap.xml

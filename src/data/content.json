@@ -1,0 +1,326 @@
+{
+  "services": [
+    {
+      "key": "website-design",
+      "name": "Website & Landing Pages",
+      "stage": "CONVERT",
+      "icon": "web",
+      "headline": "Turn website visitors into enquiries.",
+      "desc": "Build credibility with a professional website that explains your services, works well on mobile and makes enquiries easy.",
+      "cta": "Explore Website Services",
+      "hero": "A Website That Builds Confidence and Makes Enquiries Easier",
+      "action": "Discuss Your Website",
+      "intro": "Visitors need to understand your offer before they contact you. Biltech builds websites and landing pages with clear service information, mobile-friendly pages and easy contact options.",
+      "problems": [
+        "An unclear message makes visitors work too hard.",
+        "An outdated mobile experience gets in the way.",
+        "Hidden contact details leave interested visitors stuck."
+      ],
+      "includes": [
+        [
+          "Explain your offer clearly",
+          "Organise your services and customer questions so visitors can understand what you do."
+        ],
+        [
+          "Build professional credibility",
+          "Use consistent presentation and accurate business information to help customers assess your business."
+        ],
+        [
+          "Make mobile enquiries easy",
+          "Create pages and contact controls that work on phones, tablets and computers."
+        ],
+        [
+          "Give customers a direct way to contact you",
+          "Connect WhatsApp and agreed enquiry forms, with delivery arrangements confirmed before setup."
+        ],
+        [
+          "Help search engines understand your pages",
+          "Set up relevant page titles, descriptions and headings."
+        ],
+        [
+          "Understand visits and enquiries",
+          "Discuss which measurement tools you need. Tracking setup and reporting depend on the agreed work."
+        ]
+      ],
+      "message": "Hi Biltech, I’d like to discuss my website. My business is: ",
+      "solution": "We organise your offer, customer questions and contact options into pages that help visitors decide.",
+      "flow": [
+        "Understand your services",
+        "Find answers",
+        "Contact your business"
+      ]
+    },
+    {
+      "key": "google-business-profile",
+      "name": "Google Business + Reviews",
+      "stage": "GET FOUND",
+      "icon": "search",
+      "headline": "Get found when local customers search.",
+      "desc": "Help customers find accurate business details on Google Search and Maps, read genuine reviews and contact you with confidence.",
+      "cta": "Explore Google Business Services",
+      "hero": "Help More Local Customers Find Your Business on Google",
+      "action": "Check My Google Presence",
+      "intro": "Outdated details and unanswered reviews can leave customers unsure. Biltech reviews your Google Business Profile and helps you present useful, accurate information on Search and Maps.",
+      "problems": [
+        "Incomplete business information creates uncertainty.",
+        "Customers struggle to find current photos and details.",
+        "Review requests and replies happen inconsistently."
+      ],
+      "includes": [
+        [
+          "Keep business details accurate",
+          "Review contact details, opening hours, location or service area so customers know how to reach you."
+        ],
+        [
+          "Show the services you provide",
+          "Review profile categories and service information against what your business actually offers."
+        ],
+        [
+          "Help customers know what to expect",
+          "Identify useful, current photos and information for your profile."
+        ],
+        [
+          "Make genuine feedback easier",
+          "Provide a review link or QR code and a request process without incentives or filtering for positive feedback."
+        ],
+        [
+          "Respond to customer feedback",
+          "Plan how to acknowledge reviews and handle concerns. Agree who writes and publishes replies."
+        ],
+        [
+          "Connect interest to an enquiry",
+          "Check that your website and contact links take customers to the right place."
+        ]
+      ],
+      "message": "Hi Biltech, I’d like advice on my Google Business Profile. My business name or profile link is: ",
+      "solution": "We review your profile information, service categories, photos and review process, then recommend relevant updates.",
+      "flow": [
+        "Find business details",
+        "Read genuine reviews",
+        "Visit or enquire"
+      ]
+    },
+    {
+      "key": "whatsapp-automation",
+      "name": "WhatsApp Automation",
+      "stage": "FOLLOW UP",
+      "icon": "chat",
+      "headline": "Respond faster and follow up more consistently.",
+      "desc": "Handle common questions, collect enquiry details and organise WhatsApp follow-up, with a person available when needed.",
+      "cta": "Explore WhatsApp Automation",
+      "hero": "Respond Faster. Make WhatsApp Follow-Up Easier.",
+      "action": "Improve My WhatsApp Follow-Up",
+      "intro": "Repeated questions and missed replies take time away from your customers. Biltech helps organise routine WhatsApp responses and follow-up while keeping your team in control.",
+      "problems": [
+        "Pricing and availability questions repeat throughout the day.",
+        "After-hours enquiries wait without acknowledgement.",
+        "Appointment requests and follow-ups slip through the gaps."
+      ],
+      "includes": [
+        [
+          "Acknowledge enquiries sooner",
+          "Set up agreed first replies for new enquiries and messages outside business hours."
+        ],
+        [
+          "Understand what each customer needs",
+          "Ask a few relevant questions before passing the enquiry to your team."
+        ],
+        [
+          "Answer common questions",
+          "Provide approved answers and guide customers to service information or appointment next steps."
+        ],
+        [
+          "Keep people in the conversation",
+          "Give customers a clear route to your team when an automated response is not enough."
+        ],
+        [
+          "Make follow-up consistent",
+          "Agree who replies next, when to follow up and which details they need."
+        ],
+        [
+          "Choose a suitable setup",
+          "Check account requirements, existing-number compatibility and platform costs before implementation."
+        ]
+      ],
+      "message": "Hi Biltech, I’d like to improve my WhatsApp follow-up. Our main challenge is: ",
+      "solution": "We map your common questions, useful customer details and handover points before setting up the agreed responses.",
+      "flow": [
+        "New enquiry",
+        "Useful first reply",
+        "Understand the request",
+        "Human follow-up"
+      ]
+    }
+  ],
+  "faqs": [
+    [
+      "General",
+      "Which service should I start with?",
+      "Start with the problem causing the most difficulty. Hard to find online? Look at Google. Visitors leave without enquiring? Review your website. Replies or follow-ups get missed? Look at WhatsApp."
+    ],
+    [
+      "General",
+      "Do I need all three services?",
+      "No. You can start with one service. We recommend work based on your business needs, rather than asking you to take every service."
+    ],
+    [
+      "Website",
+      "Can Biltech improve an existing website?",
+      "Yes, we can review it. Whether an update or rebuild makes sense depends on its platform, condition and the changes you need."
+    ],
+    [
+      "General",
+      "Do you only work with Penang businesses?",
+      "Our focus is Penang SMEs. If you are elsewhere in Malaysia, contact us to discuss your project."
+    ],
+    [
+      "General",
+      "How long does setup normally take?",
+      "Timing depends on the work, your content, account access and any platform approvals. We agree a schedule after reviewing those requirements."
+    ],
+    [
+      "Website",
+      "Do you provide hosting?",
+      "Decision pending: hosting provider, charges, renewals and maintenance arrangements. These need to be confirmed in your proposal."
+    ],
+    [
+      "WhatsApp",
+      "Can I use my existing WhatsApp number?",
+      "It depends on your current account and the proposed setup. We check compatibility and any migration requirements before confirming."
+    ],
+    [
+      "WhatsApp",
+      "Does WhatsApp automation replace human replies?",
+      "No. Automation supports routine replies and enquiry handling. Your team takes over questions and conversations that need a person."
+    ],
+    [
+      "Google Business",
+      "Can you guarantee Google rankings?",
+      "No. We do not guarantee a Google position. Our work focuses on accurate profile information, useful content and genuine customer feedback."
+    ],
+    [
+      "Pricing",
+      "How much will my project cost?",
+      "Your quote depends on the pages, profile work and automation you need. Prices and package inclusions are pending confirmation; setup, ongoing and third-party costs will be stated in your proposal."
+    ],
+    [
+      "General",
+      "What does Get Free Advice involve?",
+      "Tell us about your business and what you want to improve. We can discuss whether Google, your website or WhatsApp needs attention first. Any proposed paid work is discussed separately."
+    ],
+    [
+      "Website",
+      "Who owns the website, domain and accounts?",
+      "Decision pending: ownership, account access and handover terms. Confirm these in writing before work begins."
+    ],
+    [
+      "General",
+      "Do you provide ongoing support?",
+      "Decision pending: support availability, included tasks, response arrangements and charges. Do not assume monthly support is included."
+    ],
+    [
+      "General",
+      "What will you need from me?",
+      "We will discuss the business information, photos, account access and approvals needed for your project. Exact content and approval responsibilities are to be agreed."
+    ],
+    [
+      "Website",
+      "Do I need a website or a landing page?",
+      "A landing page focuses on one offer or campaign. A website gives customers room to explore several services and your business. We can discuss which fits your needs."
+    ],
+    [
+      "Google Business",
+      "Can you help with a new or existing profile?",
+      "We can review an existing profile or discuss a new one. Setup depends on business eligibility, account access and any verification Google requires."
+    ],
+    [
+      "Google Business",
+      "Does this include ongoing review management?",
+      "Decision pending: ongoing review requests, reply writing and reporting. Your proposal must specify what is setup work and what continues afterwards."
+    ],
+    [
+      "WhatsApp",
+      "Are there ongoing WhatsApp costs?",
+      "The proposed setup may involve software and messaging charges. We confirm relevant third-party costs before implementation; ongoing support is to be agreed."
+    ]
+  ],
+  "principles": [
+    [
+      "Start with your business",
+      "Discuss what customers ask, where enquiries come from and what is difficult to manage."
+    ],
+    [
+      "Review what you already use",
+      "Look at your current Google profile, website and WhatsApp setup before recommending changes."
+    ],
+    [
+      "Explain the recommendation",
+      "Show which problem each proposed service addresses, in language you can understand."
+    ],
+    [
+      "Agree the work first",
+      "Set out the work, responsibilities and costs in your proposal before implementation."
+    ],
+    [
+      "Keep the handover clear",
+      "Plan how enquiries reach your team and where a personal reply is needed."
+    ]
+  ],
+  "processes": [
+    [
+      "Understand",
+      "You explain your business, customers and the problem you want to improve."
+    ],
+    [
+      "Audit",
+      "We review the relevant profile, website or enquiry process and explain the gaps."
+    ],
+    [
+      "Recommend",
+      "You receive a proposed approach, with work and costs to agree before setup."
+    ],
+    [
+      "Build",
+      "We implement the approved work and check the agreed enquiry routes."
+    ],
+    [
+      "Improve",
+      "Where included, review agreed measurements and discuss further improvements. Ongoing support is scoped separately."
+    ]
+  ],
+  "packages": [
+    [
+      "Digital Foundation",
+      "For businesses that need a credible website and a simple way for customers to enquire.",
+      [
+        "Website: professional business pages",
+        "Google: profile work to be agreed",
+        "Reviews: request setup to be agreed",
+        "WhatsApp: direct contact links",
+        "Follow-up: handled by your team"
+      ]
+    ],
+    [
+      "Lead Generation",
+      "For businesses that need stronger Google visibility and a website that encourages enquiries.",
+      [
+        "Website: website or landing page",
+        "Google: profile improvements",
+        "Reviews: genuine review request process",
+        "WhatsApp: direct enquiry route",
+        "Follow-up: handling process to be agreed"
+      ]
+    ],
+    [
+      "Conversion System",
+      "For businesses that need to connect incoming enquiries with more consistent replies and follow-up.",
+      [
+        "Website: connected enquiry pages",
+        "Google: profile work to be agreed",
+        "Reviews: request setup to be agreed",
+        "WhatsApp: agreed routine responses",
+        "Follow-up: customer questions and human handover"
+      ]
+    ]
+  ]
+}

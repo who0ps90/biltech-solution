@@ -1,0 +1,110 @@
+/* Biltech's connected-services refresh. */
+body{background:#f7f9fc;padding-top:100px}
+.site-header{inset:16px 20px auto;height:68px;border:1px solid #e1e7f0;border-radius:20px;background:#ffffffed;box-shadow:0 4px 24px #182e5410}
+.site-header .header-grid{width:calc(100% - 36px);height:68px;min-height:68px;max-width:1280px}
+.site-header .brand-logo{height:36px}
+.site-header .nav-advice,.btn{border-radius:999px}
+.site-header .mobile-navigation{border-radius:0 0 20px 20px;background:#fff;max-height:calc(100dvh - 108px)}
+.home-hero{background:radial-gradient(ellipse at 80% 35%,#e9edff 0,transparent 55%),linear-gradient(125deg,#fafbfe,#f1f6ff);padding-top:52px;padding-bottom:70px}
+.hero-accent{font-style:normal;color:#2563eb}
+.hero-copy>.eyebrow{display:inline-flex;padding:9px 14px;border:1px solid #dae3f2;border-radius:999px;background:#ffffffb3;font-size:11px;letter-spacing:.09em}
+.hero-benefits{display:flex;flex-wrap:wrap;gap:12px 18px;margin:24px 0 0;padding:0;list-style:none;color:#526176;font-size:12px}
+.hero-benefits li{display:flex;align-items:center;gap:6px}
+.hero-benefits .icon{width:18px;height:18px;padding:3px;border-radius:50%;background:#dfeaff;color:#1d4ed8}
+.credibility-strip{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));background:#fff;border:1px solid #e1e7f0;border-radius:24px;margin-top:12px;box-shadow:0 8px 24px #18335905}
+.credibility-strip>div{display:flex;align-items:center;gap:18px;padding:28px}
+.credibility-strip>div+div{border-left:1px solid #e9edf3}
+.credibility-strip strong{font-size:16px;color:#14213d}
+.credibility-strip p{font-size:13px;color:#617086;margin-top:4px;line-height:1.6}
+.credibility-strip .icon-disc{width:44px;height:44px;border-radius:14px;flex-shrink:0;background:#edf3ff;color:#2563eb}
+.section-pad{padding-block:88px}
+.section-heading .eyebrow{display:inline-block;padding:7px 13px;border:1px solid #dce4f0;border-radius:999px;background:#fff;font-size:11px;letter-spacing:.1em}
+.growth-section{background:transparent}
+.growth-grid{gap:24px;margin-top:40px}
+.growth-card{border-radius:24px;padding:30px;box-shadow:0 8px 28px #1a355608}
+.growth-card .number-square{border-radius:14px}
+.growth-card h3{font-size:26px}
+.growth-cta{display:none}
+.feature-section{background:#edf2f8}
+.feature-rows{display:flex;flex-direction:column;gap:28px;margin-top:44px}
+.feature-row{background:#fff;border:1px solid #e0e6ef;border-radius:28px;padding:36px;gap:36px;grid-template-columns:minmax(0,1fr) minmax(0,1fr);overflow:hidden}
+.feature-copy{padding:0;min-width:0}
+.feature-copy h3{font-size:clamp(28px,3vw,40px);line-height:1.22}
+.feature-copy>p:not(.feature-eyebrow){font-size:16px;line-height:1.8}
+.feature-row .feature-canvas{min-width:0;width:100%;box-shadow:none}
+.benefit-chips{display:flex;flex-wrap:wrap;gap:8px;padding:0;margin:22px 0;list-style:none}
+.benefit-chips li{display:flex;align-items:center;gap:6px;padding:7px 10px;background:#f1f5fb;border:1px solid #e7edf6;border-radius:999px;color:#43536a;font-size:11px;line-height:1.5}
+.benefit-chips .icon{width:14px;height:14px;flex-shrink:0;color:#2563eb}
+.feature-copy .action-link{margin-top:12px;font-size:14px}
+.blueprints-section{background:#f7f9fc}
+.blueprint-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin-top:44px;align-items:start}
+.blueprint-card{padding:20px;border-radius:24px;display:flex;flex-direction:column;min-width:0}
+.industry-preview{background:linear-gradient(135deg,#edf3ff,#f5f4ff);border:1px solid #e3e9f3;border-radius:16px;padding:16px;margin-bottom:24px}
+.industry-toolbar{display:flex;align-items:center;gap:4px;margin-bottom:24px}
+.industry-toolbar>span{width:5px;height:5px;border-radius:50%;background:#bac9de}
+.industry-toolbar small{margin-left:auto;font-size:9px;color:#526176}
+.industry-preview-title{display:flex;align-items:center;gap:10px;font-size:13px;margin-bottom:20px}
+.industry-preview-title .icon-disc{height:34px;width:34px;border-radius:10px;background:white;color:#2563eb}
+.industry-preview-title .icon{height:18px;width:18px}
+.industry-preview ol{display:grid;gap:8px;padding:0;list-style:none}
+.industry-preview li{display:flex;align-items:center;gap:9px;background:#ffffffc9;border:1px solid #e3eaf5;border-radius:8px;padding:10px;font-size:11px;color:#43536a}
+.industry-preview li>span{font-size:9px;color:#718198}
+.industry-preview li>.icon{width:14px;height:14px;margin-left:auto;color:#2563eb}
+.example-label{font-size:10px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:#526176}
+.blueprint-card h3{font-size:23px;margin:12px 0}
+.blueprint-card>p{font-size:15px;line-height:1.75;margin-bottom:22px}
+.example-details{border-top:1px solid #e1e7f0;width:100%}
+.example-details summary{display:flex;justify-content:space-between;align-items:center;min-height:52px;cursor:pointer;font-size:13px;font-weight:600;color:#1d4ed8;list-style:none}
+.example-details summary::-webkit-details-marker{display:none}
+.example-details[open] summary>span{transform:rotate(45deg)}
+.example-details p{font-size:14px;line-height:1.8;color:#526176}
+.example-details .action-link{font-size:12px;margin:14px 0 0;min-height:44px}
+.working-section{background:white}
+.working-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:40px;margin-top:44px}
+.working-grid h3{font-size:21px;margin:20px 0 12px}
+.working-grid p{font-size:15px;line-height:1.85;color:#617086}
+.working-link{margin-top:32px;min-height:44px}
+.pricing-section{background:#f2f5fa}
+.pricing-card{border-radius:24px}
+.site-final-cta{background:#f7f9fc}
+.final-card{border-radius:28px}
+@media(min-width:1024px){.feature-row.reverse .feature-copy{grid-column:2;grid-row:1}.feature-row.reverse .feature-canvas{grid-column:1;grid-row:1}}
+@media(max-width:1023px){
+ .site-header .nav-advice{display:none}
+ .feature-row{grid-template-columns:1fr;gap:28px;padding:30px}
+ .feature-row.reverse .feature-copy,.feature-row.reverse .feature-canvas{grid-column:auto;grid-row:auto;order:initial}
+ .feature-row .feature-canvas{max-width:580px;margin-inline:auto}
+ .credibility-strip>div{padding:22px 16px;gap:10px}
+ .credibility-strip strong{font-size:14px}
+ .credibility-strip p{font-size:12px}
+ .blueprint-grid{grid-template-columns:1fr;max-width:600px;margin-inline:auto}
+ .working-grid{gap:24px}
+}
+@media(max-width:767px){
+ body{padding-top:92px}
+ .site-header{inset:12px 12px auto;border-radius:18px;height:64px}
+ .site-header .header-grid{height:64px;min-height:64px;width:calc(100% - 24px)}
+ .site-header .brand-logo{height:34px}
+ .site-header .mobile-toggle{background:#edf3ff;border:0;border-radius:50%;width:44px;height:44px;color:#183e81}
+ .home-hero{padding:30px 0 52px}
+ .hero-copy>.eyebrow{font-size:9px;padding:8px 10px;letter-spacing:.06em}
+ .hero-benefits{gap:9px 14px;font-size:11px;margin-top:20px}
+ .hero-grid{gap:40px}
+ .credibility-strip{grid-template-columns:1fr;border-radius:20px}
+ .credibility-strip>div{padding:18px 22px}
+ .credibility-strip>div+div{border-left:0;border-top:1px solid #e9edf3}
+ .section-pad{padding-block:60px}
+ .growth-grid{margin-top:30px}
+ .feature-rows{margin-top:30px;gap:20px}
+ .feature-row{padding:24px 18px;border-radius:22px;gap:24px}
+ .feature-copy h3{font-size:29px}
+ .feature-copy>p:not(.feature-eyebrow){font-size:15px}
+ .feature-copy .feature-eyebrow{font-size:11px}
+ .feature-row .feature-canvas{height:437px}
+ .benefit-chips{gap:6px}
+ .benefit-chips li{font-size:10px;padding:6px 8px}
+ .working-grid{grid-template-columns:1fr;gap:28px;margin-top:30px}
+ .working-grid article{padding-bottom:28px;border-bottom:1px solid #e7edf4}
+ .working-grid h3{margin-top:14px}
+ .working-link{font-size:13px}
+}
